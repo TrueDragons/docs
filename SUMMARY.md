@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Test page](README.md)
+* [Welcome](README.md)

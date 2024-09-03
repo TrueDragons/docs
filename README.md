@@ -1,3 +1,7 @@
-# Test page
+---
+icon: hand-wave
+---
+
+# Welcome
 
 Hello world
